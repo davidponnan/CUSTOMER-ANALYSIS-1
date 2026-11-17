@@ -1,4 +1,3 @@
-
 Project Overview
 
 This project presents an interactive Power BI dashboard developed to analyze customer demographics, purchasing patterns, and customer performance over time.
